@@ -10,19 +10,19 @@ const dmSans = DM_Sans({
 });
 
 export const metadata = {
-  title: "atlas - eric martin",
-  description: "view building and library availability on the university of toronto campus. made by eric martin, using MapboxGL and Google Maps API.",
+  title: "Yoghurt",
+  description: "Next Gen Water Management System",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <Head>
-        <meta name="description" content="A campus navigation tool for students at the University of Toronto." />
-        <meta name="keywords" content="Toronto, university, campus, maps, buildings, libraries, mapbox" />
-        <meta name="author" content="Eric Martin" />
-        <meta property="og:title" content="atlas by eric martin" />
-        <meta property="og:description" content="A campus navigation tool for students at the University of Toronto. Discover open buildings and libraries, their nearest subway stations, and their star ratings from Google. Made with Nextjs, React and Mapbox." />
+        <meta name="description" content="Next Gen Water Management System" />
+        <meta name="keywords" content="water, infrastructure, management, dashboard" />
+        <meta name="author" content="Team Yoghurt" />
+        <meta property="og:title" content="Yoghurt" />
+        <meta property="og:description" content="Next Gen Water Management System" />
       </Head>
       <body
         className={`${dmSans.variable} font-sans`}
