@@ -4,4 +4,4 @@
 
 🙏 Special thanks to Team Yoghurt (Abby, Grey, Japtoz, Kanon, Rhyce, Tenzin)
 
-📍 Try it here: https://
+📍 Try it here: https://heart-dry-with-thirst.vercel.app/
